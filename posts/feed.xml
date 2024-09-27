@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://aiwinterschoolumea.github.io/xml/base.min.xml" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on AI Winter School Umeå</title>
+    <link>https://aiwinterschoolumea.github.io/posts/</link>
+    <description>Recent content in Posts on AI Winter School Umeå</description>
+    <generator>Hugo 0.134.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Sep 2024 07:57:40 +0200</lastBuildDate>
+    <atom:link rel="self" href="https://aiwinterschoolumea.github.io/posts/feed.xml" type="application/rss+xml" />
+    <item>
+      <title>Status Updates Responsible ML Winter School</title>
+      <link>https://aiwinterschoolumea.github.io/posts/1status-updates/</link>
+      <pubDate>Wed, 18 Sep 2024 07:57:40 +0200</pubDate>
+      <guid>https://aiwinterschoolumea.github.io/posts/1status-updates/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;19th November 2024:&lt;/strong&gt; The preliminary program of the Responsible ML Winter School will be published and can be viewed under &amp;ldquo;Timetable&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1st November 2024:&lt;/strong&gt; Registration is now open! Register for the Responsible ML Winter School until 25th November 2024. The program is still being worked on and will be available ASAP on this page. More information, including how to participate in the poster session, will follow soon.&lt;/p&gt;
+&lt;!-- ![Lemur Logo](/Logo%20LEMUR.png)
+![EU Funded logo](/eu-funded.jpg) --&gt;
+&lt;div style=&#34;display:flex;align-items:center;justify-content: center;flex-wrap:wrap&#34;&gt;
+    &lt;img src=&#34;https://aiwinterschoolumea.github.io/Logo%20LEMUR.png&#34; width=&#34;300px&#34;&gt;
+    &lt;img src=&#34;https://aiwinterschoolumea.github.io/eu-funded.jpg&#34; width=&#34;300px&#34;&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Arrival to venue</title>
+      <link>https://aiwinterschoolumea.github.io/posts/2arrival/</link>
+      <pubDate>Tue, 17 Sep 2024 07:57:40 +0200</pubDate>
+      <guid>https://aiwinterschoolumea.github.io/posts/2arrival/</guid>
+      <description>&lt;p&gt;The Responsible ML Winter School will take place in the MIT-Building of Umeå University. This is located close to the Universum Bus stop. A parking lot of the university is located close to the Universum. By public transport, the best way to reach the university from the City centre is to take bus lines 2, 5, 8 or 9 to the bus stop &lt;em&gt;Universum&lt;/em&gt; (travel time about 10 minutes). If you like to walk, then it&amp;rsquo;ll take around 25 minutes.&lt;/p&gt;
+&lt;iframe width=&#34;600&#34; height=&#34;600&#34; frameBorder=&#34;0&#34; scrolling=&#34;no&#34; marginHeight=&#34;0&#34; marginWidth=&#34;0&#34;src=&#34;https://use.mazemap.com/embed.html#v=1&amp;center=20.306646,63.819618&amp;zoom=15.5&amp;campusid=289&amp;zlevel=2&amp;desttype=poi&amp;dest=1001058182&amp;starttype=poi&amp;start=1000695647&amp;typepois=3653&amp;utm_medium=iframe&#34; style={{ border: &#39;1px solid grey&#39; }} allow=&#34;geolocation&#34;&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;small&gt;&lt;a href=&#34;https://www.mazemap.com/&#34;&gt;Map by MazeMap&lt;/a&gt;&lt;/small&gt;
+&lt;!-- [Route from bus stop](https://use.mazemap.com/#v=1&amp;center=20.304046,63.819726&amp;zoom=17.1&amp;campusid=289&amp;zlevel=2&amp;desttype=poi&amp;dest=1001058182&amp;starttype=poi&amp;start=1000695647&amp;typepois=3653) --&gt;
+</description>
+    </item>
+    <item>
+      <title>Accomodation</title>
+      <link>https://aiwinterschoolumea.github.io/posts/3accomodation/</link>
+      <pubDate>Mon, 16 Sep 2024 07:57:40 +0200</pubDate>
+      <guid>https://aiwinterschoolumea.github.io/posts/3accomodation/</guid>
+      <description>&lt;p&gt;You may find hotels for recommendation and booking links below. Please visit the links to finalize your bookings directly with the hotels.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.choicehotels.com/sweden/umea/comfort-inn-hotels/se135&#34;&gt;Comfort Hotel Umeå City &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.choicehotels.com/sweden/umea/clarion-hotels/se142&#34;&gt;Clarion Hotel Umeå&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://storahotelletumea.se/&#34;&gt;Stora Hotellet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://umehotel.se/&#34;&gt;U&amp;amp;Me Hotel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>Submission of poster</title>
+      <link>https://aiwinterschoolumea.github.io/posts/4poster-session/</link>
+      <pubDate>Sun, 15 Sep 2024 07:57:40 +0200</pubDate>
+      <guid>https://aiwinterschoolumea.github.io/posts/4poster-session/</guid>
+      <description>&lt;p&gt;Please upload your poster as PDF and a corresponding abstract here by 28th February 2025. This will help us to estimate how many posters will be presented at the poster session.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Important:&lt;/strong&gt; Please make sure that you bring a printed poster in size A1 for the event itself.&lt;/p&gt;
+&lt;p&gt;You have creative freedom in designing the layout, but please ensure the use of clear and easily readable fonts and font sizes, as well as legible color contrasts.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Contact information</title>
+      <link>https://aiwinterschoolumea.github.io/posts/5contact-info/</link>
+      <pubDate>Sat, 14 Sep 2024 07:57:40 +0200</pubDate>
+      <guid>https://aiwinterschoolumea.github.io/posts/5contact-info/</guid>
+      <description>&lt;p&gt;If you have any questions, please feel free to contact Monowar Bhuyan (&lt;a href=&#34;mailto:monowar@cs.umu.se&#34;&gt;monowar@cs.umu.se&lt;/a&gt;) or Tatyana Sarayeva  (&lt;a href=&#34;mailto:tatyana@cs.umu.se&#34;&gt;tatyana@cs.umu.se&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;You want to participate in the Responsible ML Winter School from March 11 to 14, 2025 at the Umeå University? Register here!&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
